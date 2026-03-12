@@ -8,6 +8,7 @@ Each row displays numbers starting from 1 up to the current row number, while le
 This example helps beginners understand nested loops, pattern logic, and string formatting.
 
 ⚙️ Source Code
+
 rows = 5 
 for i in range(1, rows + 1):
     print(" " * (rows - i), end=" ")
