@@ -1,4 +1,5 @@
 📘 Right-Aligned Number Triangle Pattern (Python)
+
 📌 Overview
 
 This Python program prints a right-aligned number triangle pattern using nested loops.
