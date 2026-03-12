@@ -91,3 +91,5 @@ How to design number patterns
 How nested loops control rows and columns
 
 How spacing helps create aligned shapes in console output
+
+<img width="622" height="772" alt="image" src="https://github.com/user-attachments/assets/e20a71e1-aa37-4834-b764-f6694ca46887" />
